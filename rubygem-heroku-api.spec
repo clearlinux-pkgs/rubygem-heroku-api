@@ -4,7 +4,7 @@
 #
 Name     : rubygem-heroku-api
 Version  : 0.3.23
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/heroku-api-0.3.23.gem
 Source0  : https://rubygems.org/downloads/heroku-api-0.3.23.gem
 Summary  : No detailed summary available
